@@ -1,0 +1,146 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5c4b7cbeac695b24fb2fbd72f5785be2, type: 3}
+    - {fileID: 102900000, guid: 1892509230347d54dbc1d24877ef0944, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5f1184813a19f18459d23dacc47800e3, type: 3}
+  - {fileID: 21300000, guid: 90727ef1e5c911a4ebb89c62265b4dd6, type: 3}
+  - {fileID: 21300000, guid: ca95052204a5ee6428f14338c5ab1c4d, type: 3}
+  - {fileID: 21300000, guid: b14d9c5229d25b94f856ee295bbdab07, type: 3}
+  - {fileID: 21300000, guid: 0f0a7cb219b8b6145a68d6fe6bec5d9a, type: 3}
+  - {fileID: 21300000, guid: 02bc6413e9c541c4c8fd2e7501c27232, type: 3}
+  - {fileID: 21300000, guid: 02b3a7138fad1604694cf245ab1ca59d, type: 3}
+  - {fileID: 21300000, guid: 29e31833c32435a479338cf97dff5d06, type: 3}
+  - {fileID: 21300000, guid: d63713939e9ba974698c37cb9ac6ab98, type: 3}
+  - {fileID: 21300000, guid: 8a777393fa4a8694797111360bff3870, type: 3}
+  - {fileID: 21300000, guid: 118e11b3fc8aaa648ab6f66172540cf0, type: 3}
+  - {fileID: 21300000, guid: 803117242df212744bf03cc6bb5620c8, type: 3}
+  - {fileID: 21300000, guid: 6d864a248d4ca9a40acb201a9d0cddc3, type: 3}
+  - {fileID: 21300000, guid: 923a7d24ce110f5428c2e65127839ecd, type: 3}
+  - {fileID: 21300000, guid: 07d91d9460b9e0c47b239fe98e5e0395, type: 3}
+  - {fileID: 21300000, guid: b74361a4268eaf74db7d8091ff82e723, type: 3}
+  - {fileID: 21300000, guid: e1c36fa40f4d273429b9a582289817c8, type: 3}
+  - {fileID: 21300000, guid: 0aa785b4d2d38264f88b4208fb283207, type: 3}
+  - {fileID: 21300000, guid: 02c93ab47b59c5b4a8426f579f2a1a2b, type: 3}
+  - {fileID: 21300000, guid: 98140c950b799ee47b902aa69a4c4f0c, type: 3}
+  - {fileID: 21300000, guid: db6c53a51f4ff0243919f780d898a0c2, type: 3}
+  - {fileID: 21300000, guid: 73a92a4628e086f4aa40e4ca114b18a1, type: 3}
+  - {fileID: 21300000, guid: edae089626673d8468be25d221b3c842, type: 3}
+  - {fileID: 21300000, guid: afdb63c61e3ce8a4aa45b9acf4b136e1, type: 3}
+  - {fileID: 21300000, guid: 4081ff07d26598240acef65abebce5be, type: 3}
+  - {fileID: 21300000, guid: 37dc28671cb3db3498713e60287221e0, type: 3}
+  - {fileID: 21300000, guid: d8817dc797531ae4a828a35f970d8ff4, type: 3}
+  - {fileID: 21300000, guid: 1bb66208e276b0b499d31d402deefad0, type: 3}
+  - {fileID: 21300000, guid: 34bd3e98cb7c8664ba124ece34ec1b42, type: 3}
+  - {fileID: 21300000, guid: cdf00f98e3d043344bae9b5a9d8b6e14, type: 3}
+  - {fileID: 21300000, guid: a74dacc9bfcf47749a8630eac3456429, type: 3}
+  - {fileID: 21300000, guid: 9b1d209a210356244935adde0dd7dd3d, type: 3}
+  - {fileID: 21300000, guid: b8832ccaabd44b248a59c8096a5038d1, type: 3}
+  - {fileID: 21300000, guid: 570b1c2b2c366624d89fa8431c3a4d35, type: 3}
+  - {fileID: 21300000, guid: 9a563adba26426f4f92e90bb681498ca, type: 3}
+  - {fileID: 21300000, guid: 5d3b4a7c76397eb47bbc59d2bf7a029b, type: 3}
+  - {fileID: 21300000, guid: e36a5a8c2039b8c46b609ed896b0f611, type: 3}
+  - {fileID: 21300000, guid: 5b33e4bcf8fbfca4fbb04fa7688e94b7, type: 3}
+  - {fileID: 21300000, guid: 1404bccc6df90114eb3a195786762bfd, type: 3}
+  - {fileID: 21300000, guid: 61fb9ecce04358246901dadbdfbd2230, type: 3}
+  - {fileID: 21300000, guid: 7e30b45d0fd13614e97a8cf6dbe6c2b1, type: 3}
+  - {fileID: 21300000, guid: 7832486d350096542aefd38da1c44ec5, type: 3}
+  - {fileID: 21300000, guid: a401798d5c61a114fb7001788c406bb6, type: 3}
+  - {fileID: 21300000, guid: 9a9f6b9d76e06054e8dd89bf95d08a0e, type: 3}
+  - {fileID: 21300000, guid: 420c62ae5de5b9b499b5eca9e61d4bea, type: 3}
+  - {fileID: 21300000, guid: 447c4baeac405f7488c9ba2374a2cb21, type: 3}
+  - {fileID: 21300000, guid: 2fe7b3fe56ea62b409ec74ea8e43097f, type: 3}
+  - {fileID: 21300000, guid: acfc314f747513a4e9ed3c67e3d171a7, type: 3}
+  - {fileID: 21300000, guid: a98d976fa5b0a9240b0674d4bcb21549, type: 3}
+  - {fileID: 21300000, guid: 42743c6f57108a7448bacaf1b739bdac, type: 3}
+  - {fileID: 21300000, guid: 4235947fc61b99c49b320e927407258f, type: 3}
+  - {fileID: 21300000, guid: a6ec1fcf2f177464ea5771d9a50eea08, type: 3}
+  - {fileID: 21300000, guid: 5a439fff18a35334ca3d76dc7446532d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Home_Simple_Icons_UI
+  - rect4pxRy8
+  - LeftArrow_Simple_Icons_UI
+  - RightArrow_Simple_Icons_UI
+  - roundRect4px
+  - SquareRy8
+  - RightArrowC_Simple_Icons_UI
+  - DownArrowC_Simple_Icons_UI
+  - HeartOutLine_Simple_Icons_UI
+  - Gamepad_Simple_Icons_UI
+  - Return_Simple_Icons_UI
+  - Mixer_Simple_Icons_UI
+  - SoundOff_Simple_Icons_UI
+  - List_Simple_Icons_UI
+  - rectRy8
+  - Wrench_Simple_Icons_UI
+  - SomeFrame_Simple_Icons_UI
+  - MusicOn_Simple_Icons_UI
+  - LeftArrowC_Simple_Icons_UI
+  - UpArrowC_Simple_Icons_UI
+  - EyeActiveOn_Simple_Icons_UI
+  - Message_Simple_Icons_UI
+  - Scale_Simple_Icons_UI
+  - RewindForward_Simple_Icons_UI
+  - BulletList_Simple_Icons_UI
+  - Purpose_Simple_Icons_UI
+  - RewindOneFrameForward_Simple_Icons_UI
+  - QuestionMark_Simple_Icons_UI
+  - Support_Simple_Icons_UI
+  - rect8pxRy8
+  - roundRect
+  - TrashCan_Simple_Icons_UI
+  - TurnOff_Simple_Icons_UI
+  - RewindToTheEnd_Simple_Icons_UI
+  - RewindToTheBeginning_Simple_Icons_UI
+  - CheckMark_Simple_Icons_UI
+  - MusicOff_Simple_Icons_UI
+  - Filter_Simple_Icons_UI
+  - roundRect8px
+  - Heart_Simple_Icons_UI
+  - Settings_Simple_Icons_UI
+  - Pause_Simple_Icons_UI
+  - RewindOneFrame_Simple_Icons_UI
+  - roundRect2px
+  - RewaindBack_Simple_Icons_UI
+  - Stop_Simple_Icons_UI
+  - LeaderBoard_Simple_Icons_UI
+  - rect3pxRy8
+  - EyeActiveOff_Simple_Icons_UI
+  - SoundOn_Simple_Icons_UI
+  - Search_Simple_Icons_UI
+  - Awards_Simple_Icons_UI
+  - Cross_Simple_Icons_UI
+  m_Tag: UI
+  m_IsVariant: 0
